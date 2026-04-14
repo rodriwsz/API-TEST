@@ -20,7 +20,7 @@
 > 
 > Vídeo proposta: [Link para o Vídeo - 📽️](https://youtu.be/aKaEFCAl3t4) 
 >
-> Documentação: [Documentação do Projeto]("https://github.com/rodriwsz/API-TEST/tree/main/documentacao")
+> Documentação: [Documentação do Projeto](https://github.com/rodriwsz/API-TEST/tree/main/documentacao)
 
 <h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
 
