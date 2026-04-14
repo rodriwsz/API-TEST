@@ -33,7 +33,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | 1 | Alta 🔴 | Como gestor de suprimentos, quero identificar os principais produtos movimentados (por volume e valor) em São José dos Campos, para entender quais cadeias produtivas são mais fortes na região e avaliar sinergias logísticas. | 5 | 1 |
 | 2 | Média 🟡 | Como diretor estratégico, quero comparar o volume de importações e exportações de São José dos Campos com outras cidades paulistas, para validar a competitividade da cidade como sede empresarial. | 4 | 2 |
 | 2 | Média 🟡 | Como analista de mercado, quero visualizar os principais países de destino das exportações e origem das importações de SJC, para compreender o alcance global da logística local. | 4 | 2 |
-
+| 3 | Baixa 🟢 | Como gestor de estratégia comercial, quero analisar o preço médio por tonelada dos produtos de São José dos Campos, para identificar quais categorias possuem maior valor agregado e entender o impacto de flutuações de mercado. | 3 | 2 |
 ---
 
 
