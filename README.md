@@ -9,7 +9,7 @@
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas:</a>  |
-  <a href ="#tecnologias"> Tecnologias Usadas</a>  |
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
 
 <h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
