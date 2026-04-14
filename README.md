@@ -23,6 +23,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 - Lógica matemática </br>
 - Persistência de dados em BD relacional 
 
+---
 
 <h2> 🛠️ Backlog: <a id="backlog"></a> </h2></h2>
 
