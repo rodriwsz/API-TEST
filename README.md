@@ -9,7 +9,7 @@
   <a href ="#status"> Status do Projeto</a>  |
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
-  <a href ="#competencias"> Competências trabalhadas:</a>  |
+  <a href ="#competencias"> Competências trabalhadas</a>  |
   <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
 
