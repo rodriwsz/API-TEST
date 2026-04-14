@@ -2,5 +2,5 @@
       <h2> <p align="center">
       <img src="./assets/logo.png" width="80" align="center">
       </p>
-      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤEquipe Trackflow </h2>
+      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤEquipe Trackflow </h2>
 </p
