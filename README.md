@@ -9,8 +9,18 @@
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas:</a>  |
-  <a href ="#tecnologias"> Tecnologias Usadas</a>  
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  |
+  <a href ="#status"> Status do Projeto</a>  |
 </p>
+
+<h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
+
+> Status do projeto: Primeira Sprint - 🚩
+>
+> 
+> Vídeo proposta: [Link para o Vídeo - 📽️](https://youtu.be/aKaEFCAl3t4) 
+>
+> 
 
 <h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
 
@@ -47,7 +57,4 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
  <a href="https://app.powerbi.com/home?language=pt-BR"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
  <a href="https://excel.cloud.microsoft/pt-br/"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
 </h4>
-
-
-
 
