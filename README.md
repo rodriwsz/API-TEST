@@ -16,11 +16,11 @@
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
 
 <h2> 🏃‍♂️ Competências trabalhadas: <a id="competencias"></a> </h2>
-- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.) 
-- Processo de desenvolvimento ágil  
-- Caracterização do produto logístico 
-- Lógica de programação básica
-- Lógica matemática
+- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.) </br>
+- Processo de desenvolvimento ágil </br>  
+- Caracterização do produto logístico </br> 
+- Lógica de programação básica </br>
+- Lógica matemática </br>
 - Persistência de dados em BD relacional 
 
 
