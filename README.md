@@ -15,7 +15,7 @@
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
 
-> Status do projeto: Primeira Sprint - 🚩
+> Status do projeto: [Primeira Sprint - 🚩](https://github.com/rodriwsz/API-TEST)
 >
 > 
 > Vídeo proposta: [Link para o Vídeo - 📽️](https://youtu.be/aKaEFCAl3t4) 
