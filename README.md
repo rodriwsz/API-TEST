@@ -43,6 +43,9 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 <h4 align="center">
  <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
  <a href="https://docs.google.com/document/u/0/"><img src="https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"></a>
+ <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python_3+-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://app.powerbi.com/home?language=pt-BR"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+ <a href="https://excel.cloud.microsoft/pt-br/"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
 </h4>
 
 
