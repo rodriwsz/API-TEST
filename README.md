@@ -3,4 +3,7 @@
       <img src="./assets/logo2.png" width="120" align="center">
       <p align="center">
       Equipe Trackflow </h1>
-</p
+</p>
+
+<h2> 🏃‍♂️ Objetivo: <a id="desafio"></a> </h2>
+
