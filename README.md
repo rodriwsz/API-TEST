@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
+  <a href ="#status"> Status do Projeto</a>  |
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas:</a>  |
-  <a href ="#tecnologias"> Tecnologias Usadas</a>  |
-  <a href ="#status"> Status do Projeto</a>  |
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
@@ -20,7 +20,7 @@
 > 
 > Vídeo proposta: [Link para o Vídeo - 📽️](https://youtu.be/aKaEFCAl3t4) 
 >
-> 
+> Documentação: [Documentação do Projeto]("https://github.com/rodriwsz/API-TEST/tree/main/documentacao")
 
 <h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
 
