@@ -42,10 +42,11 @@
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
 
 - Ranking de top países, classificados por quantidade em $ exportado.
-- Comparativo da curva de exportação por ano.
-- Ranking de top itens exportados.
+- Comparativo da curva de exportação e importação por ano.
+- Ranking de top itens exportados/importados.
 
 <h2> 🚩 Pontos de melhoria: </h2>
 
 - Adicionar mais tipos de filtros.
 - Mais meios de interagir com o dashboard.
+- Aumentar a escala dos dados.
