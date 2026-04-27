@@ -29,7 +29,7 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Link para o arquivo - 🗃️](https://drive.google.com/file/d/1DJHbHSFzKzeqdAq8wx-TLqT_XTEiV2L2/view?usp=sharing)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Link para o dashboard - 🗃️](https://app.powerbi.com/viewr=eyJrIjoiZmVjNDFlMTYtYTJiYy00ZTIyLThkODAtYzM3NzI4MjhlZjZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Link para o dashboard - 🗃️](https://app.powerbi.com/view?r=eyJrIjoiZmVjNDFlMTYtYTJiYy00ZTIyLThkODAtYzM3NzI4MjhlZjZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 ---
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
