@@ -41,7 +41,7 @@
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
 
-- Ranking de top munícipios, classificados por quantidade em $ exportado.
+- Ranking de top países, classificados por quantidade em $ exportado.
 - Comparativo da curva de exportação por ano.
 - Ranking de top itens exportados.
 
