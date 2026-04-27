@@ -12,6 +12,7 @@
 ---
 
 <h2> 🔑 User Stories (Backlog do MVP) </h2>
+
 | ID | User Story | Prioridade | Estimativa (Story Points) |
 | :--- | :--- | :--- | :--- |
 | US1 | Como engenheiro de dados, quero utilizar o Google Colab e versionar o código no GitHub para garantir a rastreabilidade e colaboração da equipe. | Alta 🔴 | 5 pontos |
