@@ -10,8 +10,8 @@
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas</a>  |
-  <a href ="#tecnologias"> Tecnologias Usadas</a>  |
   <a href ="#equipe"> Equipe</a>  |
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
