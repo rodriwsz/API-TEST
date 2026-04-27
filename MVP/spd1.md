@@ -12,7 +12,7 @@
 ---
 
 <h2> 🔑 User Stories (Backlog do MVP) </h2>
-| ID | User Story | Prioridade | Estimativa |
+| ID | User Story | Prioridade | Estimativa (Story Points) |
 | :--- | :--- | :--- | :--- |
 | US1 | Como engenheiro de dados, quero utilizar o Google Colab e versionar o código no GitHub para garantir a rastreabilidade e colaboração da equipe. | Alta 🔴 | 5 pontos |
 | US2 | Como analista de dados, quero extrair e limpar as bases brutas do MDIC via Python para garantir a confiabilidade dos dados que alimentarão o sistema. | Média 🟡 | 3 pontos |
