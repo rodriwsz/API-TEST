@@ -67,7 +67,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
     <tr>
       <td>Victor Oliveira</td>
       <td>Scrum Master</td>
-      <td><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://github.com/Victorvmor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="https://www.linkedin.com/in/victor-miguel-848186333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
@@ -91,14 +91,14 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
     <tr>
       <td>Gabriel Silva</td>
       <td>Team Member</td>
-      <td><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://github.com/Gabestudando"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/gabriel-silva-9778a22b4?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Kauan Assis</td>
       <td>Team Member</td>
       <td><a href="https://github.com/KauanDanielX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/kauan-daniel-b915a3334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Artur Mota</td>
