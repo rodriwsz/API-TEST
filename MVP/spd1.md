@@ -29,7 +29,7 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Link para o arquivo - 🗃️](https://drive.google.com/file/d/1DJHbHSFzKzeqdAq8wx-TLqT_XTEiV2L2/view?usp=sharing)
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Link para o dashboard - 🗃️](https://app.powerbi.com/viewr=eyJrIjoiZmVjNDFlMTYtYTJiYy00ZTIyLThkODAtYzM3NzI4MjhlZjZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 ---
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
@@ -39,3 +39,6 @@
 - Ranking de top itens exportados.
 
 <h2> 🚩 Pontos de melhoria: </h2>
+
+- Adicionar mais tipos de filtros.
+- Mais meios de interagir com o dashboard.
