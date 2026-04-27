@@ -10,7 +10,8 @@
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas</a>  |
-  <a href ="#tecnologias"> Tecnologias Usadas</a>  
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  |
+  <a href ="#equipe"> Equipe</a>  |
 </p>
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
@@ -47,6 +48,20 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | 3 | Baixa 🟢 | Como gestor de estratégia comercial, quero analisar o preço médio por tonelada dos produtos de São José dos Campos, para identificar quais categorias possuem maior valor agregado e entender o impacto de flutuações de mercado. | 3 | 2 |
 
 ---
+
+<h2> 🤝 Equipe: <a id="equipe"> </a> </h2></h2>
+| Product Owner | Nikolas Maura        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolasmaura?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/NMAURA)              |
+| Scrum Master  | Victor Oliveira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-miguel-848186333?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
+| Team Member   | Rodrigo Azevedo             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-azevedo-de-menezes-b4246130b/?skipRedirect=true) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rodriwsz)        |
+|  Team Member  | Willian Ortiz                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/willian-ortiz-5531a5406) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/willianortiz2201)        |
+|  Team Member  | Leonardo Balieiro                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardacostabalieiro)   |
+|  Team Member  | Gabriel Silva    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Kauan Assis    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauanDanielX)    
+|  Team Member  | Artur Mota   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+
+
+---
+
 
 <h2> 🤖 Tecnologias Usadas:  <a id="tecnologias"></a> </h2> </h2>
 
