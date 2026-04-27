@@ -27,10 +27,11 @@
 
 <img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/d52ec32e-1bc4-4e10-8b43-1f3d9b9c5de0" />
 
-<p align="center">
-[Link para o arquivo - 🗃️](https://drive.google.com/file/d/1DJHbHSFzKzeqdAq8wx-TLqT_XTEiV2L2/view?usp=sharing)
-[Link para o dashboard - 🗃️](https://app.powerbi.com/view?r=eyJrIjoiZmVjNDFlMTYtYTJiYy00ZTIyLThkODAtYzM3NzI4MjhlZjZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
-</p>  
+
+<h2 align="center">[Link para o arquivo - 🗃️](https://drive.google.com/file/d/1DJHbHSFzKzeqdAq8wx-TLqT_XTEiV2L2/view?usp=sharing)</h2>
+<h2 align="center">[Link para o dashboard - 🗃️](https://app.powerbi.com/view?r=eyJrIjoiZmVjNDFlMTYtYTJiYy00ZTIyLThkODAtYzM3NzI4MjhlZjZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+</h2>
+
 
 ---
 
