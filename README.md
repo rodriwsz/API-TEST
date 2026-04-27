@@ -39,24 +39,24 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 <h2> 🛠️ Backlog: <a id="backlog"></a> </h2></h2>
 
-| Nº | User Story | Sprint |
-| :-- | :--- | :--- |
-| 1 | Como analista de dados da SIDE, quero extrair e limpar as bases brutas do MDIC via Python para garantir a confiabilidade dos dados que alimentarão o sistema. | Sprint 1 |
-| 2 | Como diretor de desenvolvimento econômico, quero que o processamento em Python normalize os dados por setor industrial para sustentar métricas precisas. | Sprint 1 |
-| 3 | Como gestor de estratégia comercial, quero analisar o preço médio por tonelada para identificar categorias de maior valor agregado. | Sprint 2 |
-| 4 | Como analista de mercado, quero visualizar os principais países parceiros de SJC para compreender o alcance global da logística local. | Sprint 2 |
-| 5 | Como analista logístico, quero visualizar o balanço comercial de SJC (2021-2025) no Power BI para identificar o perfil exportador da cidade. | Sprint 1 |
-| 6 | Como diretor estratégico, quero comparar o volume comercial de SJC com outras cidades paulistas para validar a competitividade empresarial da cidade. | Sprint 2 |
-| 7 | Como gestor de suprimentos, quero identificar o Top 10 de produtos por volume e valor para entender as cadeias produtivas mais fortes de SJC. | Sprint 1 |
-| 8 | Como diretor de competitividade, quero um filtro de perfil de carga para distinguir produtos manufaturados de commodities. | Sprint 2 |
-| 9 | Como analista de comércio exterior, quero cruzar o volume exportado com a via de transporte para identificar necessidades de infraestrutura regional. | Sprint 2 |
-| 10 | Como secretário de desenvolvimento econômico, quero uma interface intuitiva e eficiente para obter respostas rápidas sem suporte técnico. | Sprint 3 |
-| 11 | Como engenheiro de dados, quero utilizar o Google Colab e versionar o código no GitHub para garantir a rastreabilidade e colaboração da equipe. | Sprint 1 |
-| 12 | Como analista de inteligência, quero conseguir isolar e exportar os dados brutos filtrados do Power BI para uso em relatórios customizados. | Sprint 3 |
-| 13 | Como gestor da Secretaria, quero que o dashboard evidencie a balança comercial da RMVP para analisar o peso de SJC no seu entorno logístico. | Sprint 2 |
-| 14 | Como secretário de desenvolvimento econômico, quero que a plataforma seja responsiva para realizar consultas em tempo real via dispositivos móveis. | Sprint 3 |
-| 15 | Como responsável pelo planeamento, quero definir metas imutáveis para garantir que a fundação técnica suporte as entregas subsequentes. | Sprint 3 |
-| 16 | Como gestor do projeto, quero distribuir o backlog em 3 Sprints para garantir entregas de valor iterativas e contínuas para a Secretaria. | Sprint 3 |
+| Prioridade | Nº | User Story | Sprint |
+| :---: | :--- | :--- | :--- |
+| Alta 🔴 | 11 | Como engenheiro de dados, quero utilizar o Google Colab e versionar o código no GitHub para garantir a rastreabilidade e colaboração da equipe. | Sprint 1 |
+| Alta 🔴 | 1 | Como analista de dados da SIDE, quero extrair e limpar as bases brutas do MDIC via Python para garantir a confiabilidade dos dados que alimentarão o sistema. | Sprint 1 |
+| Alta 🔴 | 2 | Como diretor de desenvolvimento econômico, quero que o processamento em Python normalize os dados por setor industrial para sustentar métricas precisas. | Sprint 1 |
+| Média 🟡 | 5 | Como analista logístico, quero visualizar o balanço comercial de SJC (2021-2025) no Power BI para identificar o perfil exportador da cidade. | Sprint 1 |
+| Média 🟡 | 7 | Como gestor de suprimentos, quero identificar o Top 10 de produtos por volume e valor para entender as cadeias produtivas mais fortes de SJC. | Sprint 1 |
+| Média 🟡 | 6 | Como diretor estratégico, quero comparar o volume comercial de SJC com outras cidades paulistas para validar a competitividade empresarial da cidade. | Sprint 2 |
+| Média 🟡 | 13 | Como gestor da Secretaria, quero que o dashboard evidencie a balança comercial da RMVP para analisar o peso de SJC no seu entorno logístico. | Sprint 2 |
+| Média 🟡 | 4 | Como analista de mercado, quero visualizar os principais países parceiros de SJC para compreender o alcance global da logística local. | Sprint 2 |
+| Média 🟡 | 3 | Como gestor de estratégia comercial, quero analisar o preço médio por tonelada para identificar categorias de maior valor agregado. | Sprint 2 |
+| Média 🟡 | 8 | Como diretor de competitividade, quero um filtro de perfil de carga para distinguir produtos manufaturados de commodities. | Sprint 2 |
+| Média 🟡 | 9 | Como analista de comércio exterior, quero cruzar o volume exportado com a via de transporte para identificar necessidades de infraestrutura regional. | Sprint 2 |
+| Baixa 🟢 | 10 | Como secretário de desenvolvimento econômico, quero uma interface intuitiva e eficiente para obter respostas rápidas sem suporte técnico. | Sprint 3 |
+| Baixa 🟢 | 14 | Como secretário de desenvolvimento econômico, quero que a plataforma seja responsiva para realizar consultas em tempo real via dispositivos móveis. | Sprint 3 |
+| Baixa 🟢 | 12 | Como analista de inteligência, quero conseguir isolar e exportar os dados brutos filtrados do Power BI para uso em relatórios customizados. | Sprint 3 |
+| Baixa 🟢 | 15 | Como responsável pelo planeamento, quero definir metas imutáveis para garantir que a fundação técnica suporte as entregas subsequentes. | Sprint 3 |
+| Baixa 🟢 | 16 | Como gestor do projeto, quero distribuir o backlog em 3 Sprints para garantir entregas de valor iterativas e contínuas para a Secretaria. | Sprint 3 |
 
 
 ---
