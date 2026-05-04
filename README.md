@@ -58,6 +58,11 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | Baixa 🟢 | 15 | Como responsável pelo planeamento, quero definir metas imutáveis para garantir que a fundação técnica suporte as entregas subsequentes. | Sprint 3 |
 | Baixa 🟢 | 16 | Como gestor do projeto, quero distribuir o backlog em 3 Sprints para garantir entregas de valor iterativas e contínuas para a Secretaria. | Sprint 3 |
 
+---
+
+| Sprint | Data da entrega | Acesso |
+| :---: | :--- | :--- |
+Sprint 1 | 27/04 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
 
 ---
 
