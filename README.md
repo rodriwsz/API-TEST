@@ -129,7 +129,6 @@ Sprint 2 | 25/05 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/
   </table>
 </div>
 
-
 ---
 
 
