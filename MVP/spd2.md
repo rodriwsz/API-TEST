@@ -11,8 +11,25 @@
 
 ---
 
-<h2> 🔑 User Stories (Backlog do MVP) </h2>
+<h2> 🏹 Tasks: </h2>
+  <h3> 1ª Fase: A Base (Leonardo/Nikolas)</h3>
+    • Expansão da Base de Dados (Python): Mudar o código para buscar dados de toda a Região Metropolitana (RMVP) e do Estado de SP, não apenas SJC. Sem isso, não existe o "Comparador".
+    • Cruzamento NCM x SH4 (O "Tradutor"): Unir as tabelas de códigos com os nomes reais dos produtos e categorias (Manufaturados vs. Commodities). Isso é o que vai permitir criar filtros que as pessoas entendam.
+  <h3> 2ª Fase: A Estrutura (Rodrigo/Victor)</h3>
+    • Criação do Menu Lateral e Novas Páginas: Criar o sistema de botões para navegar entre "Resumo", "Comparativo de Cidades" e "Produtos".
+    • Configuração dos Filtros Globais: Colocar o filtro de cidade e o filtro de período (meses/anos) que funcione em todas as telas ao mesmo tempo.
+  <h3> 3ª Fase: A Inteligência (Kauan/Nikolas)</h3>
+    • Módulo de Benchmarking (O Comparador): Criar o mapa interativo de SP e a tabela que coloca SJC ao lado de outras cidades para ver quem vende mais.
+    • Cálculo de Valor Agregado: Criar a conta de "Preço por Tonelada" no Power BI para identificar quais produtos são mais valiosos.
+    • Visão de Modais e Parceiros: Adicionar os gráficos que mostram por onde a carga sai (avião, navio, caminhão) e para quais países ela vai.
+  <h3> 4ª Fase: O Acabamento (Willian)</h3>
+    • Revisão de Design e Textos: Checar se as fontes estão legíveis e se os botões funcionam bem.
+    • Teste de Responsividade: Garantir que o dashboard abra e funcione bem em telas de tamanhos diferentes, como celulares ou tablets.
 
+---
+    
+<h2> 🔑 User Stories (Backlog do MVP) </h2>
+ 
 | ID | User Story | Prioridade | Estimativa (Story Points) |
 | :--- | :--- | :--- | :--- |
 | US1 | Como analista de mercado, quero visualizar os principais países parceiros das cidades selecionadas para compreender o alcance global da logística local. | Alta 🔴 | 5 pontos |
