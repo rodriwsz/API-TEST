@@ -8,8 +8,9 @@
 <p align="center">
   <a href ="#status"> Status do Projeto</a>  |
   <a href ="#objetivo"> Objetivo</a>  |
-  <a href ="#competencias"> Competências trabalhadas</a>  |
+  <a href ="#competencias"> Competências trabalhadas</a>  |    
   <a href ="#backlog"> Backlog</a>  |
+  <a href ="#sprints"> Sprints</a>  |    
   <a href ="#equipe"> Equipe</a>  |
   <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
@@ -59,11 +60,12 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | Baixa 🟢 | 16 | Como gestor do projeto, quero distribuir o backlog em 3 Sprints para garantir entregas de valor iterativas e contínuas para a Secretaria. | Sprint 3 |
 
 ---
+<h2> Sprints: <a id="sprints"> </a> </h2></h2>
 
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
 Sprint 1 | 27/04 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
-Sprint 1 | 25/05 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
+Sprint 2 | 25/05 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
 
 ---
 
