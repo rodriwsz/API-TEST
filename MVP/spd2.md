@@ -26,6 +26,11 @@
     • Revisão de Design e Textos: Checar se as fontes estão legíveis e se os botões funcionam bem.
     • Teste de Responsividade: Garantir que o dashboard abra e funcione bem em telas de tamanhos diferentes, como celulares ou tablets.
 
+<h2> 💻 5W2H: </h2>
+
+<img width="1536" height="926" alt="image" src="https://github.com/user-attachments/assets/bb9b4be6-9e6e-449a-a879-8ade3ec7be6d" />
+
+
 ---
     
 <h2> 🔑 User Stories (Backlog do MVP) </h2>
