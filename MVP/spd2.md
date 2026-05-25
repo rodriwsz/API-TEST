@@ -34,7 +34,7 @@
 </h2>
 
 <h2 align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiMmMxNmU5ZmMtYzZiOC00YWUzLWFjM2UtOWVmYjdhMDAzZDEwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYzE5Y2IyYzQtNGMyYS00NGJkLWE4YTgtZTVjNTNkNGNhNTgxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
 </h2>
 
 ---
