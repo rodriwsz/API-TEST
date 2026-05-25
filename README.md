@@ -1,6 +1,6 @@
 <h1>ㅤㅤㅤㅤㅤAPI 1º Semestre Logística - Noturno</h1>
 <h1> <p align="center">
-      <img src="./assets/logomelhor.png" width="300" align="center">
+      <img src="./assets/logomelhor.png" width="220" align="center">
       <p align="center">
       Equipe Trackflow </h1>
 </p>
