@@ -8,8 +8,9 @@
 <p align="center">
   <a href ="#status"> Status do Projeto</a>  |
   <a href ="#objetivo"> Objetivo</a>  |
-  <a href ="#backlog"> Backlog</a>  |
   <a href ="#competencias"> Competências trabalhadas</a>  |
+  <a href ="#backlog"> Backlog</a>  |
+  <a href ="
   <a href ="#equipe"> Equipe</a>  |
   <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
@@ -63,6 +64,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
 Sprint 1 | 27/04 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
+Sprint 1 | 25/05 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
 
 ---
 
