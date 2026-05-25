@@ -4,10 +4,10 @@
 
 <h2> 🎯 Objetivo do MVP:  </h2>
   <h3> Requisitos Funcionais:</h3>
-    - Setup de ambiente: Configuração de one drive e google colab para processamento de dados. </br> 
-    - Data prep: Tratamento da base de dados, deixando dados necessários para a estruturação inicial do projeto. </br> 
-    - Dashboard: Modelar o ambiente de visualização de dados através da plataforma Power BI. </br> 
-    - Repositório: Estruturação do repositório remoto (GitHub) E versionamento da documentação da Sprint 1. </br> 
+    - Base de dados integrada, limpa e funcional. </br> 
+    - Construção entre a base de dados NCM e SH4. </br> 
+    - Dashboard: Melhoria do desing e identidade de layout do projeto. </br> 
+    - Repositório: Atualização do repositório remoto (GitHub) E versionamento da documentação da Sprint 2. </br> 
 
 ---
 
@@ -15,17 +15,17 @@
 
 | ID | User Story | Prioridade | Estimativa (Story Points) |
 | :--- | :--- | :--- | :--- |
-| US1 | Como engenheiro de dados, quero utilizar o Google Colab e versionar o código no GitHub para garantir a rastreabilidade e colaboração da equipe. | Alta 🔴 | 5 pontos |
+| US1 | Como analista de mercado, quero visualizar os principais países parceiros das cidades selecionadas para compreender o alcance global da logística local. | Alta 🔴 | 5 pontos |
 | US2 | Como analista de dados, quero extrair e limpar as bases brutas do MDIC via Python para garantir a confiabilidade dos dados que alimentarão o sistema. | Média 🟡 | 3 pontos |
-| US3 | Como gestor de suprimentos, quero identificar o Top 10 de produtos por volume e valor para entender as cadeias produtivas mais fortes de SJC. | Média 🟡 | 3 pontos |
+| US3 | Como gestor de estratégia comercial, quero analisar o preço médio por KG para identificar categorias de maior valor agregado. | Média 🟡 | 3 pontos |
 | US4 | Como diretor de desenvolvimento economico, quero que o processamento em Python normalize os dados por setor industrial para sustentar métricas precisas. | Baixa 🟢 | 2 pontos |
-| US5 | Como analista logístico, quero visualizar o balanço comercial de SJC (2021-2025) no Power BI para identificar o perfil exportador da cidade. | Alta 🔴 | 5 pontos |
+| US5 | Como analista de comércio exterior, quero cruzar o volume exportado com a via de transporte para identificar necessidades de infraestrutura regional. | Alta 🔴 | 5 pontos |
 
 ---
 
 <h2> 🗃️ Evidências: </h2>
 
-<img width="1257" height="748" alt="image" src="https://github.com/user-attachments/assets/de3d05f5-25db-4725-8d5f-1da4ee016fb7" />
+<img width="1106" height="782" alt="image" src="https://github.com/user-attachments/assets/6f908e2c-7041-41c6-92a8-b45c5fa2f5f7" />
 
 
 
@@ -41,13 +41,13 @@
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
 
-- Ranking de top países, classificados por quantidade em $ exportado.
-- Comparativo da curva de exportação e importação por ano.
-- Ranking de top itens exportados/importados.
+- Mapa para melhor seleção dos países que
+- Filtros do tipo: Pais, Munícipio, SH4, Ano, Trimestre e Mês.
+- Indicadores como: FOB/KG, FOB ($) e KG LIQ. 
 
 <h2> 🚩 Pontos de melhoria: </h2>
 
-- Adicionar mais tipos de filtros.
-- Mais meios de interagir com o dashboard.
+- Adicionar mais munícipios.
+- Mais meios de interagir com o dashboard como: Novos filtros
 - Aumentar a escala dos dados.
 
