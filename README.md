@@ -60,7 +60,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | Baixa 🟢 | 16 | Como gestor do projeto, quero distribuir o backlog em 3 Sprints para garantir entregas de valor iterativas e contínuas para a Secretaria. | Sprint 3 |
 
 ---
-<h2> Sprints: <a id="sprints"> </a> </h2></h2>
+<h2> ⚙️ Sprints: <a id="sprints"> </a> </h2></h2>
 
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
