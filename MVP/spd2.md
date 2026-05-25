@@ -41,7 +41,7 @@
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
 
-- Mapa para melhor seleção dos países que
+- Mapa para melhor seleção dos países que mais contribuíram com a exportação e importação dos municípios
 - Filtros do tipo: Pais, Munícipio, SH4, Ano, Trimestre e Mês.
 - Indicadores como: FOB/KG, FOB ($) e KG LIQ. 
 
