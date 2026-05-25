@@ -10,7 +10,6 @@
   <a href ="#objetivo"> Objetivo</a>  |
   <a href ="#competencias"> Competências trabalhadas</a>  |
   <a href ="#backlog"> Backlog</a>  |
-  <a href ="
   <a href ="#equipe"> Equipe</a>  |
   <a href ="#tecnologias"> Tecnologias Usadas</a>  
 </p>
