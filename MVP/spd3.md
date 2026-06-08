@@ -12,7 +12,7 @@
 ---
 
 <h2> 🏹 Tasks: </h2>
-<h3> 1ª Fase: Design & Expansão Visual (Nikolas)</h3>
+<h3> 1ª Fase: Design & Expansão Visual (Nikolas e Victor)</h3>
 • Melhoria do Design: Evolução da identidade visual, layout e refinamento da interface do dashboard.
 • Nova Aba de Mapa: Criação de um mapa expansivo para melhorar a visualização geográfica dos dados.
 <h3> 2ª Fase: Audiovisual & Explicação (Leonardo)</h3>
