@@ -6,7 +6,7 @@
   <h3> Requisitos Funcionais:</h3>
     - Base de dados integrada, limpa e funcional. </br> 
     - Construção entre a base de dados NCM e SH4. </br> 
-    - Dashboard: Melhoria do desing e identidade de layout do projeto. </br> 
+    - Dashboard: Melhoria do design e identidade de layout do projeto. </br> 
     - Repositório: Atualização do repositório remoto (GitHub) E versionamento da documentação da Sprint 2. </br> 
 
 ---
