@@ -11,6 +11,20 @@
 
 ---
 
+<h2> 🏹 Tasks: </h2>
+<h3> 1ª Fase: Design & Expansão Visual (Nikolas)</h3>
+• Melhoria do Design: Evolução da identidade visual, layout e refinamento da interface do dashboard.
+• Nova Aba de Mapa: Criação de um mapa expansivo para melhorar a visualização geográfica dos dados.
+<h3> 2ª Fase: Audiovisual & Explicação (Leonardo)</h3>
+• Vídeo Explicativo: Produção e gravação do material em vídeo detalhando o funcionamento e os objetivos do projeto.
+<h3> 3ª Fase: Documentação & Relatórios (Artur / Kauan / Willian)</h3>
+• Relatório Técnico: Desenvolvimento e entrega da documentação detalhada integrando as métricas do dashboard e o funcionamento da API.
+<h3> 4ª Fase: Versionamento & Repositório (Rodrigo)</h3>
+• Atualização do GitHub: Organização do repositório remoto, commit final do código e versionamento de toda a documentação da Sprint 3.
+
+---
+
+
     
 <h2> 🔑 User Stories (Backlog do MVP) </h2>
  
