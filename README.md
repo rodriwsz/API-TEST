@@ -62,11 +62,15 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 ---
 <h2> ⚙️ Sprints: <a id="sprints"> </a> </h2></h2>
 
+<div align="center>
+
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
 Sprint 1 | 27/04 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
 Sprint 2 | 25/05 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
+Sprint 3 | 06/08 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd3.md)
 
+</div>
 ---
 
 <h2> 🤝 Equipe: <a id="equipe"> </a> </h2></h2>
