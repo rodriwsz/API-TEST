@@ -48,9 +48,13 @@
 <img width="1054" height="785" alt="image" src="https://github.com/user-attachments/assets/baabe5b9-a8f0-4327-92a5-56317ac1f3a6" />
 
 <p align="center">
-  <img src="assets/mobile1.jpg" width="250" alt="Filtros">
-  <img src="assets/mobile2.jpg" width="250" alt="Gráficos">
-  <img src="assets/mobile3.jpg" width="250" alt="Mapa">
+  <table>
+    <tr>
+      <td><img src="assets/mobile1.jpg" alt="Filtros" width="250"></td>
+      <td><img src="assets/mobile2.jpg" alt="Gráficos" width="250"></td>
+      <td><img src="assets/mobile3.jpg" alt="Mapa" width="250"></td>
+    </tr>
+  </table>
 </p>
 
 
