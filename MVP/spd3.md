@@ -60,6 +60,12 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiN2MwMGM4MTktZTI0NS00ZTU2LTk2YjYtYTVkOGNlMWI4ZmUzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
 </h2>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oehzgbZQ4po">
+    <img src="https://img.youtube.com/vi/oehzgbZQ4po/maxresdefault.jpg" alt="Assista ao vídeo do Track Flow" width="600">
+  </a>
+</p>
+
 ---
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
