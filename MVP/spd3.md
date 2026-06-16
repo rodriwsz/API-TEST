@@ -47,6 +47,8 @@
 
 <img width="1054" height="785" alt="image" src="https://github.com/user-attachments/assets/baabe5b9-a8f0-4327-92a5-56317ac1f3a6" />
 
+<h2> 📽️ Vídeo da Sprint: </h2>
+
 [![Apresentação Track Flow](https://img.youtube.com/vi/oehzgbZQ4po/maxresdefault.jpg)](https://www.youtube.com/watch?v=oehzgbZQ4po)
 
 
@@ -60,11 +62,6 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiN2MwMGM4MTktZTI0NS00ZTU2LTk2YjYtYTVkOGNlMWI4ZmUzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
 </h2>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=oehzgbZQ4po">
-    <img src="https://img.youtube.com/vi/oehzgbZQ4po/maxresdefault.jpg" alt="Assista ao vídeo do Track Flow" width="600">
-  </a>
-</p>
 
 ---
 
