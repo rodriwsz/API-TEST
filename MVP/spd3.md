@@ -65,7 +65,12 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiN2MwMGM4MTktZTI0NS00ZTU2LTk2YjYtYTVkOGNlMWI4ZmUzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
 </h2>
 
-<img src="assets/mobile1.png" width="250" alt="Filtros">
+<h2> 📲 Versão mobile: </h2>
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/953f22dc-8871-4bf6-ba4e-03996d061910" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/5047ff28-9654-4a9c-9fcf-39272f848206" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa784dad-9e83-43d1-a1e7-a611bf648558" />
+
 
 ---
 
