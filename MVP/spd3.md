@@ -48,9 +48,9 @@
 <img width="1054" height="785" alt="image" src="https://github.com/user-attachments/assets/baabe5b9-a8f0-4327-92a5-56317ac1f3a6" />
 
 <p align="center">
-  <img src="caminho_da_foto1.png" width="250" alt="Filtros">
-  <img src="caminho_da_foto2.png" width="250" alt="Gráficos">
-  <img src="caminho_da_foto3.png" width="250" alt="Mapa">
+  <img src="assets/mobile1.jpg" width="250" alt="Filtros">
+  <img src="assets/mobile2.jpg" width="250" alt="Gráficos">
+  <img src="assets/mobile3.jpg" width="250" alt="Mapa">
 </p>
 
 
