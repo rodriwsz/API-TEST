@@ -47,21 +47,7 @@
 
 <img width="1054" height="785" alt="image" src="https://github.com/user-attachments/assets/baabe5b9-a8f0-4327-92a5-56317ac1f3a6" />
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="assets/mobile1.jpg" alt="Filtros" width="250"></td>
-      <td><img src="assets/mobile2.jpg" alt="Gráficos" width="250"></td>
-      <td><img src="assets/mobile3.jpg" alt="Mapa" width="250"></td>
-    </tr>
-  </table>
-</p>
 
-<p align="center">
-  <img src="assets/mobile1.jpg" width="250" alt="Filtros">
-  <img src="assets/mobile2.jpg" width="250" alt="Gráficos">
-  <img src="assets/mobile3.jpg" width="250" alt="Mapa">
-</p>
 
 
 <h2> 📽️ Vídeo da Sprint: </h2>
@@ -79,6 +65,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiN2MwMGM4MTktZTI0NS00ZTU2LTk2YjYtYTVkOGNlMWI4ZmUzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">Link para o dashboard - 🗃️</a>
 </h2>
 
+<img src="assets/mobile1.png" width="250" alt="Filtros">
 
 ---
 
