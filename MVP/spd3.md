@@ -57,6 +57,12 @@
   </table>
 </p>
 
+<p align="center">
+  <img src="assets/mobile1.jpg" width="250" alt="Filtros">
+  <img src="assets/mobile2.jpg" width="250" alt="Gráficos">
+  <img src="assets/mobile3.jpg" width="250" alt="Mapa">
+</p>
+
 
 <h2> 📽️ Vídeo da Sprint: </h2>
 
